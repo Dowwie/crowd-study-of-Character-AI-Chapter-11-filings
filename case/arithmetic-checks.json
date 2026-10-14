@@ -1,0 +1,52 @@
+[
+  [
+    "August revenue / August opex excluding legal",
+    0.39849624060150374,
+    "5.3 / 13.3; both Aug2026; not gross margin"
+  ],
+  [
+    "Monthly opex decline H2-2024 average to Aug2026",
+    0.3926940639269406,
+    "1 -13.3/21.9; excludes legal"
+  ],
+  [
+    "Monthly opex decline 2025 average to Aug2026",
+    0.2810810810810811,
+    "1 -13.3/18.5; excludes legal"
+  ],
+  [
+    "Monthly netcashburn decline H2-2024 avg to Aug2026",
+    0.6186046511627907,
+    "1 -8.2/21.5; not necessarily same accounting as opex"
+  ],
+  [
+    "Monthly netcashburn decline2025avg toAug2026",
+    0.5340909090909092,
+    "1 -8.2/17.6"
+  ],
+  [
+    "Monthly total revenue growth Dec2025 toAug2026",
+    0.892857142857143,
+    "5.3/2.8-1; do not compare Dec total2.8 withAugsubscription2.8"
+  ],
+  [
+    "August subscription share of disclosed5.3m",
+    0.5283018867924528,
+    "rounded figures; no subscribercount or revenuecohort"
+  ],
+  [
+    "Jan-Aug compute average permonth",
+    7.0125,
+    "historical average USDmillion, NOT Augustcompute"
+  ],
+  [
+    "Disney refundabledeposit share totalprice",
+    0.1,
+    "not additional consideration"
+  ],
+  [
+    "Disney upfront7.5 share total20",
+    0.375,
+    "includes2m refundabledeposit"
+  ]
+]
